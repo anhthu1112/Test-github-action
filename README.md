@@ -1,0 +1,3 @@
+### 1. Tạo 1 Github repository và setup quy trình CI/CD với Github Actions để chạy collection Sapo API đã tạo ở buổi trước với số lần chạy là 5, sử dụng file data csv để nhập dữ liệu email, phone, first_name, last_name
+
+### 2. Xem 2 phần của video: https://www.youtube.com/watch?v=zp5Jh2FIpF0, Unit 1 - Lesson 2 - Introduction to the project và Unit 1 - Lesson 20 - Assignment #1 (Xem phần nội dung của video trong phần mô tả của video để thấy thông tin các phần này), tiến hành fork collection Valentino's Artisan Coffee House API (https://www.postman.com/valentins-team/workspace/test-automation-valentino-s-artisan-coffee-house-api/overview) về workspace Automation API"
